@@ -1,8 +1,8 @@
 # Matriz
 Criação de um objeto tipo matriz com métodos e operações de matrizes
 Com o intuito de resolver algumas operações com matrizes, esse é objetivo.
-OBSERVAÇÕES: não há todos os métodos inclusos de operações de matrizes como matriz inversa, determinante de matriz, operações com 4x4 e por fim ainda não coloquei condições que possam invalidar uma operação matricial, outro exemplo é adição de matrizes com dimensões diferentes.Então, preste atenção que não há condições para acontecer uma operação. veja no livro ou na internet as condiçoes para ocorrer a operação, tudo bem?
-Mais tarde posso resolver esses problemas. Mas fique a vontade para baixar e implementar, comentar modificações e tudo de mais.
+<br><p><strong>OBSERVAÇÕES</strong>: não há todos os métodos inclusos de operações de matrizes como matriz inversa, determinante de matriz, operações com 4x4 e por fim ainda não coloquei condições que possam invalidar uma operação matricial, outro exemplo é adição de matrizes com dimensões diferentes.Então, preste atenção que não há condições para acontecer uma operação. veja no livro ou na internet as condiçoes para ocorrer a operação, tudo bem?
+Mais tarde posso resolver esses problemas. Mas fique a vontade para baixar e implementar, comentar modificações e tudo de mais.</p>
 
 Vamos a explicação:
 Deixei 2 matrizes dentro no arquivo:m1=Matriz([1, 2], [5, 0]) e m2=Matriz([3, -1], [0, 8])
